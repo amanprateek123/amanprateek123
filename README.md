@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman Prateek</h1>
 <h3 align="center">Fullstack Developer (MERN Stack)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amanprateek123" alt="rohitkaushal7" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amanprateek123" alt="aman" /> </p>
 
 - 🌱 I’m currently learning **React Native** and **GraphQL(A query language for your API)**
 
