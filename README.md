@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman Prateek</h1>
 <h3 align="center">Fullstack Developer (MERN Stack)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amanprateek123" alt="aman" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amanprateek123" alt="amanprateek123" /> </p>
 
 - 🌱 I’m currently learning **React Native** and **GraphQL(A query language for your API)**
 
@@ -9,8 +9,8 @@
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/aman-prateek-64a007172" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aman" height="30" width="40" /></a>
-<a href="https://www.instagram.com/prateek_9873/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="aman" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aman-prateek-64a007172" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="amanprateek123" height="30" width="40" /></a>
+<a href="https://www.instagram.com/prateek_9873/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="amanprateek123" height="30" width="40" /></a>
 </p>
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Famanprateek123%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
@@ -20,7 +20,7 @@
 
 <div style="display: flex;">
   
-<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanprateek123&layout=compact" alt="aman" /></div>
+<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanprateek123&layout=compact" alt="amanprateek123" /></div>
 
-<div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanprateek123&show_icons=true" alt="aman" /></div>
+<div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanprateek123&show_icons=true" alt="amanprateek123" /></div>
  </div>
