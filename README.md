@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanprateek123&label=Profile%20views&color=0e75b6&style=flat" alt="amanprateek123" /> </p>
 
-- 🔭 I’m currently working on [Community_Website](https://github.com/amanprateek123/Community-Website)
+- 🔭 I’m currently working on [Service Ninja Project](https://github.com/amanprateek123/Service_Ninja-backend)
 
-- 🌱 I’m currently learning **React Native and DSA**
+- 🌱 I’m currently learning **Data Structure & Algorithms**
 
 - 💬 Ask me about **React, Node and MongoDB**
 
