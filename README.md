@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanprateek123&label=Profile%20views&color=0e75b6&style=flat" alt="amanprateek123" /> </p>
 
-- 🔭 I’m currently working on [Service Ninja Project](https://github.com/amanprateek123/Service_Ninja-backend)
+- 🔭 I’m currently working on PWA (Progressive Web Application).
 
 - 🌱 I’m currently learning **Data Structure & Algorithms**
 
